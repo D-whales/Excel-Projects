@@ -1,5 +1,5 @@
 # Arc-Vallery Store Analysis
-
+ ![](store.jpg)
 --- 
 ## INTRODUCTION 
 
