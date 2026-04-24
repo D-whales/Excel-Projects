@@ -1,4 +1,4 @@
-# Arc-Vallery Store Analysis
+# Arc-Vallery Store Dashboard Design
  ![](store.jpg)
 --- 
 ## INTRODUCTION 
